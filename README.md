@@ -45,7 +45,7 @@ The dashboard helps analyze and visualize sales data across different dimensions
 ---
 
 ##  Dashboard Preview
-![Dashboard Screenshot](assets/Screenshot_2025-09-27_181948.png)
+![Dashboard Screenshot]([assets/Screenshot_2025-09-27_181948.png](https://github.com/Roaa-saad/Sale-Performance---Excel/blob/main/Screenshot%202025-09-27%20181948.png?raw=true))
 
 
 
