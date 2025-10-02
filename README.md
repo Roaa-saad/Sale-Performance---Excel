@@ -5,7 +5,7 @@ The dashboard helps analyze and visualize sales data across different dimensions
 
 ---
 
-## 🔑 Key Features
+## Key Features
 - **KPIs Cards**  
   - Total Sales  
   - Total Profit  
@@ -28,7 +28,7 @@ The dashboard helps analyze and visualize sales data across different dimensions
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 - **Microsoft Excel**  
   - Pivot Tables & Pivot Charts  
   - Slicers for interactive filtering  
@@ -37,15 +37,15 @@ The dashboard helps analyze and visualize sales data across different dimensions
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Designed a professional business dashboard to track and compare sales performance.  
 - Gained experience in **data visualization, storytelling, and dashboard design**.  
 - Improved skills in making data more **interactive, insightful, and decision-ready**.  
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot]([assets/screenshot.png](https://github.com/Roaa-saad/Sale-Performance---Excel/blob/8b3a8ce3ebf4e6f22c32644a67624ce6d175d55a/Screenshot%202025-09-27%20181948.png))  
+##  Dashboard Preview
+![Dashboard Screenshot](assets/Screenshot_2025-09-27_181948.png)
 
 
 
